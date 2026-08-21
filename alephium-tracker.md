@@ -33,6 +33,8 @@ The most advanced wallet intelligence tool in the Alephium ecosystem. [https://a
 * Per-token P\&L and ROI
 * Portfolio composition
 
+<figure><img src=".gitbook/assets/DOH-ALPH-PORTFOLIO.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Behavioral Analysis

@@ -6,6 +6,8 @@
 * Net profit estimation after fees and slippage
 * Opportunity ranking and filtering
 
+<figure><img src=".gitbook/assets/DOH-MARKETS-ARB.png" alt=""><figcaption></figcaption></figure>
+
 ### Futures Data
 
 * Funding rates across major exchanges (Bybit, OKX, Gate, Binance, etc.)

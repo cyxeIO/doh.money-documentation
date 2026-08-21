@@ -1,20 +1,36 @@
 # Perpetual Futures
 
-DOH Perps allow you to long or short assets with leverage using isolated margin.
+DOH Perpetual Futures allow traders to go long or short on Alephium assets with leverage, using an isolated margin system.
+
+---
 
 ### Key Features
-- Isolated margin mode
-- Leverage up to 10x
-- Real-time mark price
-- Funding rate payments
-- Clear liquidation price display
-- Partial and full close support
 
-### Opening a Position
-1. Navigate to the **Perps** tab
-2. Select Long or Short
-3. Enter margin amount and desired leverage
-4. Review estimated liquidation price, fees, and funding
-5. Confirm the transaction in your wallet
+- **Isolated Margin** — Risk is limited to the margin allocated to each position
+- **Leverage** — Up to 10x
+- **Real-time Mark Price**
+- **Funding Rates** — Periodic payments between long and short positions
+- **Clear Liquidation Price** displayed before and after entry
+- **Partial and Full Close** support
+- Transparent fee structure
 
-The interface is designed to give you full transparency over risk before you enter any position.
+---
+
+### Risk Management
+
+Every position shows:
+- Entry price
+- Liquidation price
+- Current unrealized P&L
+- Margin used
+- Funding payments
+
+The interface is designed to make risk parameters visible and understandable at all times.
+
+---
+
+### Trading Experience
+
+Perpetual Futures are fully integrated into the DOH DEX terminal, sharing the same professional charting, order entry, and portfolio tools as Spot trading.
+
+This creates a unified experience for both spot and leveraged trading on Alephium.

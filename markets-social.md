@@ -6,6 +6,8 @@
 * Categorized by impact (macro, crypto-specific, regulatory, etc.)
 * Designed to surface information that can move markets quickly
 
+<figure><img src=".gitbook/assets/DOH-MARKETS-NEWS.png" alt=""><figcaption></figcaption></figure>
+
 ### Social Intelligence
 
 * **Nostr Feed** — Decentralized crypto social timeline + per-token chatrooms

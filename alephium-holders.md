@@ -28,6 +28,8 @@ Fully sortable holder table including:
 
 Special tags include King Whale, Queen Whale, Dolphin, LP, and Hub wallets.
 
+<figure><img src=".gitbook/assets/DOH-ALPH-RICHLIST.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Linked Seller Clusters (Spider Tracking)

@@ -1,11 +1,8 @@
-# Shared Platform Features
+# Shared Features
 
-Features available across the entire DOH.Money platform:
-
-- **Command Palette** — Fast keyboard-driven navigation
-- **Deep Linking** — Shareable links to specific pools, tabs, wallets, or prices
-- **Fully Responsive** — Optimized experience on both desktop and mobile
-- **Watchlists & Favorites**
-- **Real-time WebSocket data**
-- **Customizable panels** (where available)
-- **Multi-wallet support**
+- Native desktop app + Web app
+- Automatic updates
+- Fully customizable sidebars
+- Real-time data across all modules
+- Deep linking
+- Strong focus on privacy-aware defaults and transparency

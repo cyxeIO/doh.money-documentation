@@ -1,11 +1,11 @@
-# Security
+# Security & Privacy
 
-DOH.Money is built with security as a foundational principle.
+DOH Money is designed with security and user sovereignty as core principles.
 
 - Fully non-custodial
-- Leverages Alephium’s secure sUTXO model
-- Uses the Asset Permission System (no unlimited token approvals)
-- Practical MEV protection roadmap already in progress
-- Continuous monitoring
+- Built on Alephium’s secure sUTXO model
+- Asset Permission System (no unlimited approvals)
+- Practical MEV protection and privacy roadmap
+- Open philosophy as a Decentralized Open Hub
 
-Always verify smart contract addresses and begin with small amounts when trying new features.
+We aim to give users strong protection without sacrificing transparency or control.

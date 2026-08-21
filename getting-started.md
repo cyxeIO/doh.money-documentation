@@ -1,21 +1,21 @@
 # Getting Started
 
-This guide will get you up and running on DOH.Money in under two minutes.
+### 1. Download & Install
+- Desktop app: Download the latest release from [GitHub Releases](https://github.com/dohmoney/releases)
+- Web app: Visit [app.doh.money](https://app.doh.money)
 
-### 1. Connect Your Wallet
-Click the **Connect Wallet** button in the top-right corner and choose your preferred Alephium wallet (Extension, Mobile, or WalletConnect).
+The desktop app features automatic background updates.
 
-### 2. Select Your Workspace
-Use the top navigation to switch between the three main areas of the platform:
+### 2. Connect Wallet (for DOH DEX & Staking)
+Click **Connect Wallet** and select your preferred Alephium wallet.
 
-- **Global Crypto Markets** — Multi-exchange market terminal
-- **Alephium Dex Screener** — Alephium ecosystem analytics
-- **DOH DEX** — Trade, Perps, Liquidity, Staking & Launchpad
+### 3. Navigate the Platform
+Use the top navigation to switch between:
 
-### 3. Choose Network
-Toggle between **Mainnet** and **Testnet** using the network selector.
+- **Global Crypto Markets**
+- **Alephium Dex Screener**
+- **DOH DEX**
+- **Arbitrage**
 
-### 4. Get Testnet Funds
-While on Testnet, use the built-in **Faucet** to receive test ALPH and other tokens.
-
-You’re now ready to explore the full platform.
+### 4. Customize Your Workspace
+Most sidebars are fully collapsible and drag-to-reorder so you can build your perfect trading layout.

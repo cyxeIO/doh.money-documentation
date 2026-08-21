@@ -15,6 +15,7 @@
 ## Other Dashboards
 * [Alephium Dex Screener](alephium.md)
 * [Global Crypto Markets](markets.md)
+* [Arbitrage Dashboard](arbitrage.md)
 
 ## Platform
 * [Shared Features](shared-features.md)

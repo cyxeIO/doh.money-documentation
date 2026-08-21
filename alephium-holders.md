@@ -12,6 +12,8 @@ One of the most powerful features of the Alephium Dex Screener.
 * Top 10 balance comparison
 * Clear ownership percentage breakdown
 
+<figure><img src=".gitbook/assets/DOH0-ALPH-HOLDERS-PIE.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Rich List

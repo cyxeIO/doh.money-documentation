@@ -1,14 +1,18 @@
-# Alephium Dashboard
+# Alephium Dex Screener
 
-A dedicated high-performance terminal for the Alephium ecosystem.
+Native on-chain analytics terminal for the Alephium ecosystem.
 
-### Key Capabilities
-- Live ALPH price and market statistics
-- Real-time on-chain volume and netflow
-- Top performing and declining tokens
-- Comprehensive token list with TVL, volume, and price change
-- Holder analytics and token flow tracking
-- Live transaction feed
-- Market intelligence panel
+### Key Features
 
-This dashboard is the best place to understand what is happening on Alephium in real time.
+- TradingView chart + custom OHLCV candle chart (Lightweight Charts) for all DEX pools
+- Real-time on-chain transactions with progressive all-time history loading
+- Whale detection (large trades highlighted)
+- TVL history chart per pool
+- Trader leaderboard (top traders, largest positions, volume leaders)
+- Token holder distribution + ALPH richlist + Connected Wallets
+- CEX inflow tracker (real-time ALPH transfers to/from exchange hot wallets)
+- **Wallet Tracker** — Full on-chain portfolio analytics, P&L, and transaction history for any address
+- Deep-link support for every view (example: `/alephium?tab=explorer&wallet=<address>`)
+
+### Supported DEXs
+Elexium · Linx Labs · Nightshade · and more

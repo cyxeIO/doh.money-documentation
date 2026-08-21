@@ -40,3 +40,5 @@ Automatically detects groups of related wallets and reveals:
 * Potential shared funding sources or wash activity
 
 This cluster intelligence is extremely valuable for identifying hidden relationships between wallets.
+
+<figure><img src=".gitbook/assets/DOH-ALPH-HOLDERS-SPIDER.png" alt=""><figcaption></figcaption></figure>

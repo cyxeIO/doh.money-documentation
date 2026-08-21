@@ -25,4 +25,6 @@ Become a liquidity provider and earn a share of trading fees.
 
 ### Create Token or Pool
 
-Anyone can create a new token and/or liquidity pool permissionlessly directly from the interface.
+Anyone can create a new token and/or liquidity pool permissionless and directly from the interface.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

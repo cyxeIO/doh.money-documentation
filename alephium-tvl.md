@@ -23,3 +23,5 @@ The TVL Analytics module provides deep insight into liquidity dynamics across Al
 * Dominance and comparative metrics against broader protocol liquidity
 
 This module helps you understand whether liquidity is expanding, contracting, or simply fluctuating with price — a critical distinction for serious participants.
+
+<figure><img src=".gitbook/assets/DOH-ALPH-TVL2.png" alt=""><figcaption></figcaption></figure>

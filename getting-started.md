@@ -7,7 +7,7 @@
 
 The desktop app features automatic background updates.
 
-<figure><img src=".gitbook/assets/DOH-DOWNLOAD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DOH-DOWNLOAD (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Connect Wallet (for DOH DEX & Staking)
 

@@ -2,6 +2,8 @@
 
 One of the most powerful features of the Alephium Dex Screener.
 
+<figure><img src=".gitbook/assets/DOH-ALPH-HOLDERS-TABLE-DETAIL.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/DOH-ALPH-HOLDERS-RECENTSELL.png" alt=""><figcaption></figcaption></figure>
 
 ***

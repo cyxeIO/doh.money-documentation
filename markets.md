@@ -2,9 +2,7 @@
 
 The Global Crypto Markets dashboard is a professional multi-exchange trading terminal.
 
-
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DOH-GLOBAL.png" alt=""><figcaption></figcaption></figure>
 
 ### Key Features
 

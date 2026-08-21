@@ -12,10 +12,25 @@
 * [Launchpad](dex-launchpad.md)
 * [Privacy & MEV Protection](dex-privacy.md)
 
-## Other Dashboards
-* [Alephium Dex Screener](alephium.md)
-* [Global Crypto Markets](markets.md)
-* [Arbitrage Dashboard](arbitrage.md)
+## Alephium Dex Screener
+* [Overview](alephium.md)
+* [Global & Transactions](alephium-global.md)
+* [TVL Analytics](alephium-tvl.md)
+* [Holders & Clusters](alephium-holders.md)
+* [CEX Flow](alephium-flow.md)
+* [Wallet Tracker & Portfolio](alephium-tracker.md)
+
+## Global Crypto Markets
+* [Overview](markets.md)
+* [Ticker & Token List](markets-ticker.md)
+* [Charts & Order Book](markets-charts.md)
+* [Arbitrage & Futures](markets-futures.md)
+* [News, Social & Sidebar](markets-social.md)
+
+## Arbitrage Dashboard
+* [Overview](arbitrage.md)
+* [Spread Scanner](arbitrage-scanner.md)
+* [Bot Simulator](arbitrage-simulator.md)
 
 ## Platform
 * [Shared Features](shared-features.md)

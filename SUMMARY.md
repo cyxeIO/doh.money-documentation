@@ -36,5 +36,5 @@
 * [Shared Features](shared-features.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
-* [Security](security.md)
+* [Security & Privacy](security.md)
 * [FAQ](faq.md)

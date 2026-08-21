@@ -8,9 +8,9 @@ Click the **Connect Wallet** button in the top-right corner and choose your pref
 ### 2. Select Your Workspace
 Use the top navigation to switch between the three main areas of the platform:
 
-- **Markets** — Global crypto terminal
-- **Alephium** — Alephium ecosystem analytics
-- **DEX** — Trade, Perps, Liquidity, Staking & Launchpad
+- **Global Crypto Markets** — Multi-exchange market terminal
+- **Alephium Dex Screener** — Alephium ecosystem analytics
+- **DOH DEX** — Trade, Perps, Liquidity, Staking & Launchpad
 
 ### 3. Choose Network
 Toggle between **Mainnet** and **Testnet** using the network selector.

@@ -1,6 +1,6 @@
 # Platform Overview
 
-DOH Money is a unified, high-performance trading terminal that brings together four specialized modules into a single cohesive workspace.
+DOH Money! Decentralizd Open Hub is a unified, high-performance trading terminal that brings together four specialized modules into a single cohesive workspace.
 
 It is designed for traders who refuse to compromise between speed, depth of information, and user sovereignty.
 

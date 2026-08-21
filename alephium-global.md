@@ -4,7 +4,7 @@ This section gives you both ecosystem-wide intelligence and granular trade-level
 
 ***
 
-### GLOBAL View
+### Global View
 
 The Global tab provides a high-level snapshot of the entire Alephium DEX ecosystem:
 
@@ -22,7 +22,7 @@ It serves as the command center for understanding market-wide sentiment and capi
 
 ***
 
-### TRANSACTIONS View
+### Transactions View
 
 The Transactions tab delivers a real-time feed of on-chain trades with powerful context:
 

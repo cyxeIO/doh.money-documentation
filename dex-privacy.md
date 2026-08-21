@@ -1,22 +1,26 @@
 # Privacy & MEV Protection
 
-DOH takes a pragmatic, phased approach to privacy and MEV resistance.
+DOH is built on the principle that powerful tools should respect user privacy while remaining transparent and open.
 
-### Phase 1 – Practical Protection (Current Priority)
-- **Commit-Reveal Protected Swaps** (Protected Mode)
-- Strict `minAmountOut` and deadline enforcement
-- Scoped session keys for AI agents using Alephium’s Asset Permission System
+### Our Approach
+
+We focus on **practical privacy** first, while maintaining full transparency of the system itself.
+
+#### Phase 1 – Practical Protection (Current Focus)
+- Commit-Reveal Protected Swaps (Protected Mode)
+- Strict minimum received & deadline controls
+- Scoped session keys for agents (via Alephium APS)
 - Improved address and UTXO hygiene tools
-- Optional routing through private nodes
+- Optional private node routing
 
-### Phase 2 – Enhanced Practical Privacy
-- Encrypted order submission
-- Optional batch auction settlement
-- Reduced on-chain event leakage
+#### Phase 2 – Enhanced Privacy
+- Encrypted order flow options
+- Batch auction mechanisms
+- Reduced unnecessary event leakage
 
-### Phase 3 – Cryptographic Privacy
-- Shielded pools
-- Confidential transaction amounts
-- Private state (dependent on Alephium ZK progress or hybrid solutions)
+#### Phase 3 – Deeper Cryptographic Privacy
+- Shielded pools and confidential amounts (as Alephium privacy technology matures)
 
-Our philosophy is to deliver strong practical protection as early as possible while building toward full cryptographic privacy.
+### Transparency Commitment
+
+While we protect user trading intent and reduce MEV, the DOH platform itself remains open and auditable. We believe privacy for users and transparency of the system should coexist.

@@ -2,32 +2,35 @@
 
 DOH Perpetual Futures allow traders to go long or short on Alephium assets with leverage, using an isolated margin system.
 
----
+<figure><img src=".gitbook/assets/DOH-DEX-PERPS.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Key Features
 
-- **Isolated Margin** — Risk is limited to the margin allocated to each position
-- **Leverage** — Up to 10x
-- **Real-time Mark Price**
-- **Funding Rates** — Periodic payments between long and short positions
-- **Clear Liquidation Price** displayed before and after entry
-- **Partial and Full Close** support
-- Transparent fee structure
+* **Isolated Margin** — Risk is limited to the margin allocated to each position
+* **Leverage** — Up to 10x
+* **Real-time Mark Price**
+* **Funding Rates** — Periodic payments between long and short positions
+* **Clear Liquidation Price** displayed before and after entry
+* **Partial and Full Close** support
+* Transparent fee structure
 
----
+***
 
 ### Risk Management
 
 Every position shows:
-- Entry price
-- Liquidation price
-- Current unrealized P&L
-- Margin used
-- Funding payments
+
+* Entry price
+* Liquidation price
+* Current unrealized P\&L
+* Margin used
+* Funding payments
 
 The interface is designed to make risk parameters visible and understandable at all times.
 
----
+***
 
 ### Trading Experience
 

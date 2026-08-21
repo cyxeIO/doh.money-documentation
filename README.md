@@ -6,7 +6,7 @@ DOH Money is a professional-grade crypto trading terminal built for traders who 
 
 Instead of forcing you to run multiple exchange terminals, blockchain explorers, portfolio trackers, news feeds, and automation tools, DOH Money consolidates the entire workflow into one cohesive platform.
 
-<figure><img src=".gitbook/assets/DOH-GLOBAL-LIVE.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DOH-GLOBAL (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

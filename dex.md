@@ -1,3 +1,9 @@
+---
+description: >-
+  DOH DEX is still in public testnet with mainnet launch coming soon!
+  https://app.doh.money/dex
+---
+
 # DOH DEX Overview
 
 The DOH DEX is a full-featured decentralized exchange built natively on Alephium.

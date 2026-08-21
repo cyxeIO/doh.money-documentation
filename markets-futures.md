@@ -18,3 +18,5 @@
 This section is tightly integrated with the dedicated Arbitrage Dashboard for deeper simulation and execution planning.
 
 <figure><img src=".gitbook/assets/DOH-MARKET-FUTURES.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/DOH-MARKET-FUNDING.png" alt=""><figcaption></figcaption></figure>

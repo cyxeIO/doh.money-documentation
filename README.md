@@ -1,15 +1,14 @@
 # Welcome to DOH.Money
 
-DOH.Money is a professional-grade trading and analytics terminal built primarily on **Alephium**.
+**DOH Money** is a professional-grade crypto trading terminal available as a native desktop app and web app (app.doh.money).
 
-It brings together a high-performance DEX, deep Alephium ecosystem analytics, and a global multi-exchange market intelligence platform — all inside one cohesive, high-density interface.
+It aggregates live data from **22 centralized exchanges** and the **Alephium blockchain**, giving you a unified, high-density view of the entire market from a single screen.
 
-### What makes DOH different?
+### Core Pillars
 
-- Native **DOH DEX** with Spot, Perpetuals, Launchpad and Staking
-- Institutional-style **Global Crypto Markets** terminal with aggregated order books and flow data
-- Dedicated **Alephium Dex Screener** for on-chain intelligence
-- Strong focus on practical MEV resistance and future privacy
-- Built for both serious traders and ecosystem participants
+- **Global Crypto Markets** — Multi-exchange terminal with 4200+ tokens, order books, arbitrage, futures, news, and social feeds
+- **Alephium Dex Screener** — Native on-chain analytics for Alephium DEXs
+- **DOH DEX** — Spot trading, Perpetuals, Staking, Launchpad, and more
+- **Arbitrage Dashboard** — Cross-exchange spread scanner and bot simulator
 
-Whether you are trading, providing liquidity, launching a token, or analyzing the market, DOH is designed to be fast, transparent, and powerful.
+Built for serious traders who want institutional-grade tools without leaving one application.

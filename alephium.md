@@ -10,17 +10,17 @@ It is currently one of the most comprehensive analytics tools available for Alep
 
 ### Main Navigation Tabs
 
-* **GLOBAL** — Ecosystem-wide overview
-* **TRANSACTIONS** — Live and historical on-chain trades
+* **Global** — Ecosystem-wide overview
+* **Transactions** — Live and historical on-chain trades
 * **TVL** — Total Value Locked analytics
-* **LEADERS** — Top traders and volume leaders
-* **HOLDERS** — Holder distribution
-* **FLOW** — CEX inflows & outflows
-* **TRACKER** — Advanced Wallet Tracker & Portfolio analysis
+* **Leaders** — Top traders and volume leaders
+* **Holders** — Holder distribution
+* **Flow** — CEX inflows & outflows
+* **Tracker** — Advanced Wallet Tracker & Portfolio analysis
 
 ***
 
-### GLOBAL Tab
+### Global Tab
 
 Ecosystem intelligence at a glance:
 
@@ -34,7 +34,7 @@ Ecosystem intelligence at a glance:
 
 ***
 
-### TRANSACTIONS Tab
+### Transactions Tab
 
 Real-time and historical trade feed.
 
@@ -62,7 +62,7 @@ Deep liquidity analytics for any pool:
 
 ***
 
-### FLOW Tab (CEX Inflows & Outflows)
+### Flow Tab (CEX Inflows & Outflows)
 
 Tracks real-time movement of ALPH to and from centralized exchange hot wallets.
 
@@ -75,7 +75,7 @@ Tracks real-time movement of ALPH to and from centralized exchange hot wallets.
 
 ***
 
-### TRACKER Tab – Wallet Tracker & Portfolio Analytics
+### Tracker Tab – Wallet Tracker & Portfolio Analytics
 
 The Wallet Tracker is one of the most powerful features in the entire DOH Money platform. It provides Arkham-style wallet intelligence combined with full trading performance analysis.
 

@@ -1,7 +1,5 @@
 ---
-description: >-
-  DOH DEX is still in public testnet with mainnet launch coming soon!
-  https://app.doh.money/dex
+description: DOH DEX is still in public testnet with mainnet launch coming soon!
 ---
 
 # DOH DEX Overview

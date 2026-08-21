@@ -4,8 +4,8 @@
 * [Getting Started](getting-started.md)
 * [Platform Overview](platform-overview.md)
 
-## DEX
-* [DEX Overview](dex.md)
+## DOH DEX
+* [DOH DEX Overview](dex.md)
 * [Spot Trading](dex-spot.md)
 * [Perpetual Futures](dex-perps.md)
 * [Staking](dex-staking.md)
@@ -13,8 +13,8 @@
 * [Privacy & MEV Protection](dex-privacy.md)
 
 ## Other Dashboards
-* [Alephium Dashboard](alephium.md)
-* [Markets (Global Crypto)](markets.md)
+* [Alephium Dex Screener](alephium.md)
+* [Global Crypto Markets](markets.md)
 
 ## Platform
 * [Shared Features](shared-features.md)

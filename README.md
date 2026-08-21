@@ -6,9 +6,9 @@ It brings together a high-performance DEX, deep Alephium ecosystem analytics, an
 
 ### What makes DOH different?
 
-- Native Alephium DEX with Spot, Perpetuals, Launchpad and Staking
-- Institutional-style Markets terminal with aggregated order books and flow data
-- Dedicated Alephium dashboard for on-chain intelligence
+- Native **DOH DEX** with Spot, Perpetuals, Launchpad and Staking
+- Institutional-style **Global Crypto Markets** terminal with aggregated order books and flow data
+- Dedicated **Alephium Dex Screener** for on-chain intelligence
 - Strong focus on practical MEV resistance and future privacy
 - Built for both serious traders and ecosystem participants
 

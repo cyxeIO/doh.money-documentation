@@ -16,6 +16,8 @@ DOH Perpetual Futures allow traders to go long or short on Alephium assets with 
 * **Partial and Full Close** support
 * Transparent fee structure
 
+<figure><img src=".gitbook/assets/DOH-DEX-PERPS-STATS.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Risk Management

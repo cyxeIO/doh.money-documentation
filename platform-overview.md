@@ -1,12 +1,17 @@
 # Platform Overview
 
-DOH.Money consists of four major modules:
+DOH Money brings together four powerful modules inside a single, cohesive terminal:
 
-| Module | Description |
-|--------|-------------|
-| **Global Crypto Markets** | Multi-exchange terminal covering 22 CEXs, 4200+ tokens, order books, arbitrage, futures, news & social |
-| **Alephium Dex Screener** | Native on-chain DEX analytics, whale tracking, holder distribution, and wallet analysis |
-| **DOH DEX** | Spot, Perpetuals, Liquidity, Staking & Launchpad on Alephium |
-| **Arbitrage Dashboard** | Real-time cross-exchange spread scanner + full bot simulator |
+| Module | Purpose |
+|--------|--------|
+| **DOH DEX** | Native Alephium trading, perps, staking & launchpad |
+| **Alephium Dex Screener** | On-chain analytics, holders, flows & wallet intelligence |
+| **Global Crypto Markets** | 22-exchange market data, order books & social intelligence |
+| **Arbitrage Dashboard** | Cross-exchange opportunity detection & simulation |
 
-All modules share a consistent dark terminal design language focused on speed and information density.
+### Design Principles
+
+- **Open** — Built as a Decentralized Open Hub
+- **Transparent** — Clear data, open logic, and honest presentation
+- **Privacy-aware** — Practical MEV protection and user sovereignty tools
+- **High Performance** — Dense, fast, and professional-grade interface

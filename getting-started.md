@@ -19,10 +19,10 @@ Download Official Wallet - [https://alephium.org/wallets/](https://alephium.org/
 
 Use the top navigation to switch between:
 
-* **Global Crypto Markets**
-* **Alephium Dex Screener**
+* **Global Crypto Dashboard**
+* **Alephium Dashbaord**
 * **DOH DEX**
-* **Arbitrage**
+* **Global Arbitrage Dashboard**
 
 ### 4. Customize Your Workspace
 

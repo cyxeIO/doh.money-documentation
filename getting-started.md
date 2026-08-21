@@ -13,6 +13,8 @@ The desktop app features automatic background updates.
 
 Click **Connect Wallet** and select your preferred Alephium wallet.
 
+Download Official Wallet - [https://alephium.org/wallets/](https://alephium.org/wallets/)
+
 ### 3. Navigate the Platform
 
 Use the top navigation to switch between:
